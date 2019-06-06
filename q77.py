@@ -1,0 +1,5 @@
+print("enter the string in which you want to check")
+a=input()
+ss=a.split()
+n=len(ss)
+print("the number of non empty substring in given string are %s"%(n))
